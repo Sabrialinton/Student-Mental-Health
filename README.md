@@ -9,10 +9,6 @@ The "Student Mental Health" dataset was compiled through a survey conducted via 
 
 Import the Dataset named 'Student Mental health.csv'
 
-Structure of the Dataset:
-
-![image](https://github.com/Sabrialinton/Student-Mental-Health/assets/114893438/919bcec2-d238-44e4-b2a8-1359a3d4867b)
-
 Limitations of the Data:
 
 This dataset is a sample (101 individuals) and does not cover a large population.
